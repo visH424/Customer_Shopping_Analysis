@@ -2,4 +2,4 @@
 Customer Shopping Behavior Analysis using Python, SQL and Power BI.
 ## 📊 Power BI Dashboard
 
-![Customer Shopping Dashboard](dashboard.png)
+![Customer Shopping Dashboard](Dashboard.png.png)
